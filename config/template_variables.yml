@@ -1,0 +1,32 @@
+---
+template_variables:
+  book_title: Pivotal Documentation
+  book_title_short: Pivotal Docs
+  hero_text: "Detailed documentation to help you install, understand, and succeed with Pivotal's enterprise-grade software."
+  platform_name: Pivotal Platform
+  platform_old: Pivotal Cloud Foundry
+  platform_code: PCF
+  product_full: Pivotal Developer Console
+  product_name: Pivotal Developer Console
+  product_short: Developer Console
+  app_runtime_full: Pivotal Application Service
+  app_runtime: Application Service
+  product_link: <div class="header-item"><a href="https://network.pivotal.io/products/pivotal-cf">Back to Product Page</a></div>
+  product_url:
+  service_name: Pivotal Developer Console
+  service_name_article: Pivotal Developer Console
+  service_name_article_full: the Pivotal Developer Console
+  support_call_to_action: <a href="http://support.pivotal.io" target="_blank">Need Support?</a>
+  support_link: <a href="http://support.pivotal.io" target="_blank">Support</a>
+  support_url: http://support.pivotal.io
+  tile_name: Pivotal Developer Console
+  title: <span class="title-deemph">Pivotal</span> Documentation
+  title_image: images/icon-p-green.jpg
+  path_to_partials: /developer-console/partials
+
+  api_version: 235
+  gtm_account_id: GTM-MW4LZHR
+
+  use_global_header: true
+  global_header_product_href: https://network.pivotal.io/
+  global_header_product_link_text: Downloads
