@@ -27,7 +27,7 @@ Bookbinder uses this centralized layout repository by default, but files in the 
 
 Here you'll find the configuration and templates for the Pivotal Developer Console documentation.
 
-[//]: # (set published to [docs.pivotal.io/developer-console/](http://docs.pivotal.io/developer-console/).)
+[//]: # "set published to [docs.pivotal.io/developer-console/](http://docs.pivotal.io/developer-console/)."
 
 This repository *does not* contain the actual documentation content.
 Actual content is contained in the topic repositories listed in the `config.yml` file.
