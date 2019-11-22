@@ -8,6 +8,7 @@ template_variables:
   platform_code: PCF
   product_full: Pivotal Developer Console
   product_name: Pivotal Developer Console
+  product_abbr: PDC
   product_short: Developer Console
   ops_manager: Ops Manager
   app_runtime_full: Pivotal Application Service
