@@ -10,7 +10,7 @@ template_variables:
   platform_old: Pivotal Cloud Foundry
   platform_code: PCF
   product_full: Pivotal Developer Console
-  product_name: Pivotal Developer Console
+  product_name: Pivotal Developer Console #Do not use
   product_abbr: PDC
   product_short: Developer Console
   ops_manager: Ops Manager
