@@ -34,6 +34,6 @@ sections:
     local_header_title: Pivotal Developer Console
     search_placeholder: Search Developer Console (Alpha)
     url_prefix: developer-console/0-alpha
-    local_product_version: 'alpha'
+    local_product_version: '-alpha'
     local_header_links: []
     local_header_version_list:
