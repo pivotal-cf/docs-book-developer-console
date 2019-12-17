@@ -5,5 +5,5 @@ r301 %r{.*}, 'https://docs.pivotal.io$&', :if => Proc.new { |rack_env|
 
 # r301 %r{/developer-console/(?![\d-]+)(.*)}, "/developer-console/0-1/$1"
 
-r301 %r{/developer-console/(?![\d-]+)(.*)}, "/developer-console/0-alpha/$1"
+r302 %r{/developer-console/(?![\d-]+)(.*)}, "/developer-console/0-alpha/$1"
 r301 %r{/developer-console/0-1/(.*)}, "/developer-console/0-alpha/$1"
