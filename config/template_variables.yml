@@ -15,7 +15,7 @@ template_variables:
   product_short: Developer Console
   ops_manager: Ops Manager
   app_runtime_full: Pivotal Application Service
-  app_runtime: Pivotal Application Service
+  app_runtime_abbr: PAS
   product_link: <div class="header-item"><a href="https://network.pivotal.io/products/pivotal-cf">Back to Product Page</a></div>
   product_url:
   service_name: Pivotal Developer Console
