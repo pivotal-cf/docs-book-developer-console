@@ -4,7 +4,6 @@ template_variables:
   book_title_short: Pivotal Docs
   hero_text: "Detailed documentation to help you install, understand, and succeed with Pivotal's enterprise-grade software."
   k8s_runtime_full: Enterprise Pivotal Container Service
-  k8s_runtime: Enterprise PKS
   k8s_runtime_abbr: PKS
   platform_name: Pivotal Platform
   platform_old: Pivotal Cloud Foundry
