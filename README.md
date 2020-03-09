@@ -1,8 +1,8 @@
-#  Pivotal Developer Console Documentation Book
+# Developer Console Documentation Book
 
 The content repo associated with this book is [pivotal-cf/docs-developer-console](https://github.com/pivotal-cf/docs-developer-console).
 For specific information about Pivotal Developer Console documentation,
-see [Pivotal Developer Console Docs](https://github.com/pivotal-cf/docs-developer-console/blob/master/README.md).
+see [Developer Console Docs](https://github.com/pivotal-cf/docs-developer-console/blob/master/README.md).
 
 
 In this topic:
@@ -25,7 +25,7 @@ Bookbinder uses this centralized layout repository by default, but files in the 
 
 ## What's in this Repo
 
-Here you'll find the configuration and templates for the Pivotal Developer Console documentation.
+Here you'll find the configuration and templates for the Developer Console documentation.
 
 [//]: # "set published to [docs.pivotal.io/developer-console/](http://docs.pivotal.io/developer-console/)."
 
