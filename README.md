@@ -1,7 +1,7 @@
-# Developer Console Documentation Book
+#  Developer Console Documentation Book
 
 The content repo associated with this book is [pivotal-cf/docs-developer-console](https://github.com/pivotal-cf/docs-developer-console).
-For specific information about Pivotal Developer Console documentation,
+For specific information about Developer Console documentation,
 see [Developer Console Docs](https://github.com/pivotal-cf/docs-developer-console/blob/master/README.md).
 
 
