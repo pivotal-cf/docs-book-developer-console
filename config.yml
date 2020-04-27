@@ -29,7 +29,7 @@ sections:
   product_info:
     use_local_header: true
     latest_stable_version: 0.2
-    changelog_href: http://docs.pivotal.io/developer-console/0-alpha/release-notes.html/
+    changelog_href: http://docs.pivotal.io/developer-console/0-alpha/release-notes.html
     local_header_img: /images/cloud_rings.png
     local_header_title: Developer Console
     search_placeholder: Search Developer Console (Alpha)
