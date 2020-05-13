@@ -3,8 +3,8 @@ template_variables:
   book_title: VMware Tanzu Documentation
   book_title_short: VMware Tanzu Docs
   hero_text: "Detailed documentation to help you install, understand, and succeed with VMware's enterprise-grade software."
-  k8s_runtime_full: VMware Enterprise PKS
-  k8s_runtime_abbr: PKS
+  k8s_runtime_full: Tanzu Kubernetes Grid Integrated Edition
+  k8s_runtime_abbr: TKGI
   platform_name: Pivotal Platform
   platform_old: Pivotal Cloud Foundry
   platform_code: PCF
