@@ -28,7 +28,7 @@ sections:
   subnav_template: developer-console_subnav_0-alpha.erb
   product_info:
     use_local_header: true
-    latest_stable_version: 0.2
+    latest_stable_version: 0.4
     changelog_href: http://docs.pivotal.io/developer-console/0-alpha/release-notes.html
     local_header_img: /images/cloud_rings.png
     local_header_title: Developer Console
