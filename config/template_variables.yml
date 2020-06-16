@@ -14,6 +14,7 @@ template_variables:
   ops_manager: Ops Manager
   app_runtime_full: VMware Tanzu Application Service for VMs
   app_runtime_abbr: TAS for VMs
+  app_runtime_k8s_full: VMware Tanzu Application Service for Kubernetes
   app_runtime_k8s_abbr: TAS for Kubernetes
   product_link: <div class="header-item"><a href="https://network.pivotal.io/products/pivotal-cf">Back to Product Page</a></div>
   product_url:
