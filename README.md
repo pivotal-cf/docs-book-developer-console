@@ -34,19 +34,15 @@ Actual content is contained in the topic repositories listed in the `config.yml`
 
 The `master_middleman` folder contains the templates used for publishing.
 
-The `master_middleman` folder contains the templates used for publishing.
+All redirects are in the local `redirects.rb` file for all the versions that the redirects apply to.
+This includes the redirect for the unversioned route. You do not need to update the redirect for the unversioned route when publishing because this documentation only has one version.
 
-The redirect for the unversioned route is in `docs-book-pcfservices`. We update this redirect for each minor release so that the a URL without a version number redirects to latest release.
-For example: `r302 %r{/redis/(?![\d-]+)(.*)}, "/redis/2-3/$1"`
-
-All other redirects are in the local `redirects.rb` file for all the versions that the redirects apply to.
-
-Each version of Redis for Pivotal Platform has its own book branch:
+There are two book branches of Developer Console:
 
 | Branch name | Use for… |
-|-------------| -------|
-| master      | "edge" branch for 2.x, publishes to https://docs-pcf-staging.cfapps.io/redis/2-n/|
-| alpha         | all alpha releases |
+|-------------| ---------|
+| master      | "edge" branch that builds documentation for the next unreleased version of Developer Console. Publishes to https://docs-pcf-staging.cfapps.io/developer-console/0-n/. |
+| alpha       | All alpha releases |
 
 
 ## Running Locally
