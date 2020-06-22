@@ -23,17 +23,17 @@ sections:
 
 - repository:
     name: pivotal-cf/docs-developer-console
-    ref: 'alpha'
-  directory: developer-console/0-alpha
-  subnav_template: developer-console_subnav_0-alpha.erb
+    ref: 'master'
+  directory: developer-console/0-n
+  subnav_template: developer-console_subnav_0-n.erb
   product_info:
     use_local_header: true
     latest_stable_version: 0.4
-    changelog_href: http://docs.pivotal.io/developer-console/0-alpha/release-notes.html
+    changelog_href: http://docs-pcf-staging.cfapps.io/developer-console/0-n/release-notes.html
     local_header_img: /images/cloud_rings.png
     local_header_title: Developer Console
-    search_placeholder: Search Developer Console (Alpha)
-    url_prefix: developer-console/0-alpha
-    local_product_version: '-alpha'
+    search_placeholder: Search Developer Console
+    url_prefix: developer-console/0-n
+    local_product_version: 0.5
     local_header_links: []
     local_header_version_list:
