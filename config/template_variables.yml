@@ -33,7 +33,7 @@ template_variables:
   windows_runtime_abbr: TAS for VMs &#91;Windows&#93;
 
   api_version: 235
-  gtm_account_id: GTM-MW4LZHR
+  gtm_account_id: GTM-MM86KCJ
 
   use_global_header: true
   global_header_product_href: https://network.pivotal.io/
