@@ -5,4 +5,4 @@ r301 %r{.*}, 'https://docs.pivotal.io$&', :if => Proc.new { |rack_env|
 
 # Redirect from docs.pivotal.io/developer-console/ to docs.vmware.com Developer Console PDF
 
-r301  %r{/developer-console}, "https://docs.vmware.com/en/Developer-Console/Alpha/developer-console.pdf"
+r301  %r{/developer-console/0-alpha}, "https://docs.vmware.com/en/Developer-Console/Alpha/developer-console.pdf"
